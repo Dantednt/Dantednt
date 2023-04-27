@@ -1,4 +1,6 @@
-<img align="left" height="440" src="https://media.giphy.com/media/8tZNZsJfHFllV2HKOv/giphy.gif"  />
+<div align="center">
+  <img height="100" src="https://media.giphy.com/media/fEkNAohvDTJOo/giphy.gif"  />
+</div>
 
 ###
 
