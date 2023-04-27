@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img height="200" src="https://media.giphy.com/media/8tZNZsJfHFllV2HKOv/giphy.gif"  />
 </div>
 
@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h3 align="center">About me</h3>
+<h3 align="left">About me</h3>
 
 ###
 
@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<h2 align="center">Skills</h2>
+<h2 align="left">Skills</h2>
 
 ###
 
