@@ -28,6 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="tensorflow logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <a href="https://matplotlib.org/stable/index.html#" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/stable/_static/logo2.svg" alt="matplotlib" width="70" height="60"/> </a>
 </div>
 
 ###
