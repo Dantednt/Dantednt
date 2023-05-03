@@ -30,6 +30,5 @@
   <a href="https://matplotlib.org/stable/index.html#" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/stable/_static/logo2.svg" alt="matplotlib" width="70" height="60"/> </a>
 </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 </div>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="10e960a6-fe8b-4ce9-ad02-1fd57f78a63b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ###
