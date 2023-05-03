@@ -11,7 +11,7 @@
 ###
 
 <p align="left">Hi there!👋 My name is Nestor Urdaneta and I'm a self-taught data scientist. I'm passionate about using data to solve real-world problems, and I'm always eager to learn new skills and techniques in the field.<br><br>🧠Currently, I'm focusing on learning machine learning and building predictive models. In my free time, I enjoy reading about the latest developments in data science and working on personal projects.</p>
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="10e960a6-fe8b-4ce9-ad02-1fd57f78a63b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 ###
 
 <br clear="both">
